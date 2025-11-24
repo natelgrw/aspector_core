@@ -4,10 +4,6 @@ ASPECTOR Core is a Cadence Spectre based simulation pipeline that searches a wid
 
 Current Version: **1.0.0**
 
-
-![Simulation Pipeline](turbo_optimizer/simulation_pipeline.png)
-
-
 ## ⚡ Current Features
 
 ASPECTOR is capable of optimizing the following primary specs on op-amp Spectre netlists:  
