@@ -8,7 +8,7 @@ Current Version: **1.0.0**
 
 ## ⚡ Current Features
 
-ASPECTOR is capable of optimizing the following primary specs on op-amp Spectre netlists:  
+ASPECTOR Core is capable of optimizing the following primary specs on op-amp Spectre netlists:  
 
 - Gain  
 - Unity-Gain Bandwidth (UGBW)  
