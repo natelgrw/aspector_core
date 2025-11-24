@@ -1,4 +1,4 @@
-# ASPECTOR Core: Op-Amp Simulation Pipeline
+# ASPECTOR Core
 
 ASPECTOR is a Cadence Spectre based simulation pipeline that searches a wide Analog design space and fine tunes sizing and bias parameters to meet target circuit performance specs.
 
